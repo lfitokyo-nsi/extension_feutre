@@ -1,13 +1,13 @@
 {
-  "name": "twikipedia",
+  "name": "feutre",
   "description": "__MSG_appDesc__",
   "default_locale": "en",
   "version": "0.1",
  "content_scripts": [
    {
-     "matches": ["https://*.wikipedia.org/*"],
-     "css": ["twik_styles.css"],
-     "js": ["twik_scripts.js"]
+     "matches": ["https://*.france-ioi.org/*"],
+     "css": ["f_styles.css"],
+     "js": ["f_scripts.js"]
    }
  ],
   "browser_action": {
