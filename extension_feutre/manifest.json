@@ -5,7 +5,7 @@
   "version": "0.1",
  "content_scripts": [
    {
-     "matches": ["https://*.france-ioi.org/*"],
+     "matches": ["http://*.france-ioi.org/*"],
      "css": ["f_styles.css"],
      "js": ["f_scripts.js"]
    }
