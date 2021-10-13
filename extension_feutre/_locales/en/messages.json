@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "twikipedia",
+    "description": ""
+  },
+  "appDesc": {
+    "message": "Chrome extension to change the look of Wikipedia.",
+    "description":""
+  }
+}
